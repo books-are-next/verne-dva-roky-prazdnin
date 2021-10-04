@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="c867c710-d9b3-4ac3-bca1-85404145fa5e" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dva roky prázdnin</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_05.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_06.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>II. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_09.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>III. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_10.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>IV. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_13.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>V. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_18.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>VI. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_19.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>VII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_22.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>VIII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_27.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>IX. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_30.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>X. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_31.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>XI. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_36.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>XII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_39.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>XIII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_40.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>XIV. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_45.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>XV. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_48.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>XVI. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_51.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>XVII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_54.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>XVIII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_57.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>XIX. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_60.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>XX. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_63.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>XXI. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_64.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>XXII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_67.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>XXIII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_72.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>XXIV. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_75.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>XXV. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_78.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>XXVI. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_81.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>XXVII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_84.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>XXVIII. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_87.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>XXIX. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_88.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>XXX. KAPITOLA</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_91.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Místopisný slovníček</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_92.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/dva_roky_prazdnin_93.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
