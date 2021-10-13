@@ -5,7 +5,7 @@
       "identifier": "c867c710-d9b3-4ac3-bca1-85404145fa5e",
       "author": "Jules Verne",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-04T13:54:23.590Z"
+      "modified": "2021-10-13T06:24:41.072Z"
     },
     "chapters": [
       {
@@ -767,6 +767,6 @@
       "user": "books-are-next",
       "repo": "verne-dva-roky-prazdnin"
     },
-    "generatedAt": 1633355664357
+    "generatedAt": 1634106281891
   }
 }
