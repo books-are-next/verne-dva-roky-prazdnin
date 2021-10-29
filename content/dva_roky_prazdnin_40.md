@@ -18,11 +18,11 @@ Avšak vzdáleni toho, aby malým ukládali námahu převyšující jejich věk,
 
 Celkem se pak tento řád nesl v duchu stejných zásad, které tvořily základ anglosaské vzdělávací metody:
 
-Kdykoliv se nějaké věci bojíte, vykonejte ji!
+_Kdykoliv se nějaké věci bojíte, vykonejte ji!_
 
-Nedejte si nikdy uniknout příležitost k vrcholnému výkonu!
+_Nedejte si nikdy uniknout příležitost k vrcholnému výkonu!_
 
-Nelitujte žádné námahy, neboť vždy vám přinese užitek!
+_Nelitujte žádné námahy, neboť vždy vám přinese užitek!_
 
 Kde tyto zásady ovládaly praktický život, tam posilovaly tělo i duši.
 
