@@ -1,0 +1,671 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Dva roky prázdnin",
+    "identifier": "c867c710-d9b3-4ac3-bca1-85404145fa5e",
+    "author": "Jules Verne",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-10-29T12:43:09.284Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_01.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_02.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_03.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_04.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_05.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_06.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_07.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_08.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_09.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_10.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_11.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_12.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_13.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_14.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_15.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_16.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_17.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_18.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_19.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_20.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_21.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_22.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_23.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_24.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_25.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_26.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_27.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_28.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_29.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_30.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_31.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_32.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_33.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_34.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_35.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_36.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_37.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_38.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_39.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_40.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_41.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_42.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_43.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_44.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_45.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_46.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_47.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_48.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_49.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_50.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_51.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_52.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_53.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_54.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_55.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_56.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_57.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_58.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_59.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_60.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_61.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_62.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_63.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_64.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_65.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_66.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_67.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_68.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_69.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_70.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_71.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_72.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_73.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_74.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_75.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_76.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_77.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_78.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_79.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_80.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_81.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_82.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_83.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_84.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_85.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_86.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_87.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_88.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_89.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_90.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_91.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_92.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_93.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dva_roky_prazdnin_94.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_01.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_02.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_03.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_04.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_05.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_06.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_07.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_08.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_09.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_10.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_11.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_12.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_13.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_14.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_15.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_16.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_17.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_18.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_19.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_20.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_21.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_22.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_23.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_24.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_25.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_26.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_27.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/dva_roky_28.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/dva_roky_prazdnin_05.html"
+    },
+    {
+      "title": "I. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_06.html"
+    },
+    {
+      "title": "II. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_09.html"
+    },
+    {
+      "title": "III. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_10.html"
+    },
+    {
+      "title": "IV. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_13.html"
+    },
+    {
+      "title": "V. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_18.html"
+    },
+    {
+      "title": "VI. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_19.html"
+    },
+    {
+      "title": "VII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_22.html"
+    },
+    {
+      "title": "VIII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_27.html"
+    },
+    {
+      "title": "IX. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_30.html"
+    },
+    {
+      "title": "X. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_31.html"
+    },
+    {
+      "title": "XI. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_36.html"
+    },
+    {
+      "title": "XII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_39.html"
+    },
+    {
+      "title": "XIII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_40.html"
+    },
+    {
+      "title": "XIV. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_45.html"
+    },
+    {
+      "title": "XV. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_48.html"
+    },
+    {
+      "title": "XVI. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_51.html"
+    },
+    {
+      "title": "XVII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_54.html"
+    },
+    {
+      "title": "XVIII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_57.html"
+    },
+    {
+      "title": "XIX. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_60.html"
+    },
+    {
+      "title": "XX. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_63.html"
+    },
+    {
+      "title": "XXI. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_64.html"
+    },
+    {
+      "title": "XXII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_67.html"
+    },
+    {
+      "title": "XXIII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_72.html"
+    },
+    {
+      "title": "XXIV. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_75.html"
+    },
+    {
+      "title": "XXV. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_78.html"
+    },
+    {
+      "title": "XXVI. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_81.html"
+    },
+    {
+      "title": "XXVII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_84.html"
+    },
+    {
+      "title": "XXVIII. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_87.html"
+    },
+    {
+      "title": "XXIX. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_88.html"
+    },
+    {
+      "title": "XXX. KAPITOLA",
+      "href": "OEBPS/Text/dva_roky_prazdnin_91.html"
+    },
+    {
+      "title": "Místopisný slovníček",
+      "href": "OEBPS/Text/dva_roky_prazdnin_92.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/dva_roky_prazdnin_93.html"
+    }
+  ]
+}
