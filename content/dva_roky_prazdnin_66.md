@@ -98,6 +98,6 @@ Byla to šalupa obchodní lodě, překlopená na přídi, jejíž kýl měřil a
 
 Na zádi dvě jména zvěstovala, které lodi a kterému přístavu šalupa patřila:
 
-Severn – San Francisco
+_Severn – San Francisco_
 
 San Francisco! Přístav na pobřeží Kalifornie…! Byla to americká loď! Obzor té části pobřeží ostrova, na něž byli trosečníci Severnu vlnobitím vyhozeni, obléval nekonečný oceán.

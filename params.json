@@ -19,10 +19,10 @@
       "hrAfter": "",
       "br": "",
       "brBefore": "",
-      "brAfter": "",
-      "blockquote": "",
-      "figure": "",
-      "em": "",
+      "brAfter": "e-bookodsazeniodstavcepred e-bookodsazeniodstavceza ",
+      "blockquote": "e-bookprozatextkurzivadoprava",
+      "figure": "e-bookhvezdickystred ",
+      "em": "e-bookprozatextkurziva e-bookprozatextkurzivadoprava e-bookprozatextuprostredkurziva ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -36,9 +36,9 @@
             "filename": "dva_roky_prazdnin_01.md",
             "xhtml": "dva_roky_prazdnin_01.html",
             "id": 0,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -47,7 +47,7 @@
             "id": 1,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -56,14 +56,14 @@
             "id": 2,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "dva_roky_prazdnin_04.md",
             "xhtml": "dva_roky_prazdnin_04.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
             "inToc": true,
             "children": []
@@ -75,7 +75,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "dva_roky_prazdnin_06.md",
@@ -84,7 +85,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "I. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_07.md",
@@ -92,7 +94,7 @@
             "id": 6,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -101,7 +103,7 @@
             "id": 7,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -111,7 +113,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "II. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_10.md",
@@ -120,7 +123,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "III. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_11.md",
@@ -128,7 +132,7 @@
             "id": 10,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -137,7 +141,7 @@
             "id": 11,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -147,7 +151,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "IV. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_14.md",
@@ -155,7 +160,7 @@
             "id": 13,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -164,7 +169,7 @@
             "id": 14,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -173,7 +178,7 @@
             "id": 15,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -182,7 +187,7 @@
             "id": 16,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -192,7 +197,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "V. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_19.md",
@@ -201,7 +207,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VI. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_20.md",
@@ -209,7 +216,7 @@
             "id": 19,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -218,7 +225,7 @@
             "id": 20,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -228,7 +235,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_23.md",
@@ -236,7 +244,7 @@
             "id": 22,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -245,7 +253,7 @@
             "id": 23,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -254,7 +262,7 @@
             "id": 24,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -263,7 +271,7 @@
             "id": 25,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -273,7 +281,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VIII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_28.md",
@@ -281,7 +290,7 @@
             "id": 27,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -290,7 +299,7 @@
             "id": 28,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -300,7 +309,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "IX. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_31.md",
@@ -309,7 +319,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "X. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_32.md",
@@ -317,7 +328,7 @@
             "id": 31,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -326,7 +337,7 @@
             "id": 32,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -335,7 +346,7 @@
             "id": 33,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -344,7 +355,7 @@
             "id": 34,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -354,7 +365,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XI. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_37.md",
@@ -362,7 +374,7 @@
             "id": 36,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -371,7 +383,7 @@
             "id": 37,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -381,7 +393,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_40.md",
@@ -390,7 +403,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XIII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_41.md",
@@ -398,7 +412,7 @@
             "id": 40,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -407,7 +421,7 @@
             "id": 41,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -416,7 +430,7 @@
             "id": 42,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -425,7 +439,7 @@
             "id": 43,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -435,7 +449,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XIV. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_46.md",
@@ -443,7 +458,7 @@
             "id": 45,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -452,7 +467,7 @@
             "id": 46,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -462,7 +477,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XV. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_49.md",
@@ -470,7 +486,7 @@
             "id": 48,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -479,7 +495,7 @@
             "id": 49,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -489,7 +505,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XVI. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_52.md",
@@ -497,7 +514,7 @@
             "id": 51,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -506,7 +523,7 @@
             "id": 52,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -516,7 +533,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XVII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_55.md",
@@ -524,7 +542,7 @@
             "id": 54,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -533,7 +551,7 @@
             "id": 55,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -543,7 +561,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XVIII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_58.md",
@@ -551,7 +570,7 @@
             "id": 57,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -560,7 +579,7 @@
             "id": 58,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -570,7 +589,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XIX. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_61.md",
@@ -578,7 +598,7 @@
             "id": 60,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -587,7 +607,7 @@
             "id": 61,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -597,7 +617,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XX. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_64.md",
@@ -606,7 +627,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXI. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_65.md",
@@ -614,7 +636,7 @@
             "id": 64,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -623,7 +645,7 @@
             "id": 65,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -633,7 +655,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_68.md",
@@ -641,7 +664,7 @@
             "id": 67,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -650,7 +673,7 @@
             "id": 68,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -659,7 +682,7 @@
             "id": 69,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -668,7 +691,7 @@
             "id": 70,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -678,7 +701,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXIII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_73.md",
@@ -686,7 +710,7 @@
             "id": 72,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -695,7 +719,7 @@
             "id": 73,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -705,7 +729,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXIV. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_76.md",
@@ -713,7 +738,7 @@
             "id": 75,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -722,7 +747,7 @@
             "id": 76,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -732,7 +757,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXV. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_79.md",
@@ -740,7 +766,7 @@
             "id": 78,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -749,7 +775,7 @@
             "id": 79,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -759,7 +785,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXVI. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_82.md",
@@ -767,7 +794,7 @@
             "id": 81,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -776,7 +803,7 @@
             "id": 82,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -786,7 +813,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXVII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_85.md",
@@ -794,7 +822,7 @@
             "id": 84,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -803,7 +831,7 @@
             "id": 85,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -813,7 +841,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXVIII. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_88.md",
@@ -822,7 +851,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXIX. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_89.md",
@@ -830,7 +860,7 @@
             "id": 88,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -839,7 +869,7 @@
             "id": 89,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -849,7 +879,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXX. KAPITOLA"
           },
           {
             "filename": "dva_roky_prazdnin_92.md",
@@ -858,7 +889,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Místopisný slovníček"
           },
           {
             "filename": "dva_roky_prazdnin_93.md",
@@ -867,13 +899,14 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "dva_roky_prazdnin_94.md",
             "xhtml": "dva_roky_prazdnin_94.html",
             "id": 93,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
             "inToc": true,
             "children": []
@@ -888,7 +921,7 @@
       "identifier": "c867c710-d9b3-4ac3-bca1-85404145fa5e",
       "author": "Jules Verne",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-26T22:22:59.405Z"
+      "modified": "2021-10-29T12:34:19.279Z"
     },
     "chapters": [
       {
@@ -1650,6 +1683,6 @@
       "user": "books-are-next",
       "repo": "verne-dva-roky-prazdnin"
     },
-    "generatedAt": 1635286980598
+    "generatedAt": 1635510860594
   }
 }

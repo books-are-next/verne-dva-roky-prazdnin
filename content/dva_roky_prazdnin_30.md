@@ -62,9 +62,13 @@ Stěží otevřel Briant víčko, neboť bylo velice zašlé, a spatřil, že ru
 
 A když prohlíželi vnitřní stranu víčka, podařilo se jim přečíst tato vyrytá slova:
 
+  
+
 Delpeuch, Saint Malo – jméno továrníka a jeho adresa.
 
 „Byl to Francouz, můj krajan!“ zvolal Briant pohnut.
+
+  
 
 Bylo jasné, že v této jeskyni žil Francouz až do hodiny, kdy se dostavila smrt a skončila jeho útrapy.
 

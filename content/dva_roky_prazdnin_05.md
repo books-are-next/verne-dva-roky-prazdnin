@@ -10,4 +10,6 @@ Pokládal jsem tedy za vhodné, jestliže poučení obsažené v té knize bylo 
 
 Za tímto dvojím účelem bylo napsáno toto nové dílo.
 
-Jules Verne
+  
+
+> _Jules Verne_
