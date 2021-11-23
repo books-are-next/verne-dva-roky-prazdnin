@@ -23,24 +23,33 @@
       "blockquote": "e-bookprozatextkurzivadoprava",
       "figure": "e-bookhvezdickystred ",
       "em": "e-bookprozatextkurziva e-bookprozatextkurzivadoprava e-bookprozatextuprostredkurziva ",
-      "strong": "",
+      "strong": "e-bookprozatextuprostredtucne",
       "remove": "",
       "ignore": ""
     },
     "structure": [
       {
+        "filename": "dva_roky_prazdnin_01.md",
+        "xhtml": "dva_roky_prazdnin_01.html",
+        "id": 0,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "dva_roky_prazdnin_04.md",
+        "xhtml": "dva_roky_prazdnin_04.html",
+        "id": 3,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
         "isSection": true,
         "id": "section-1",
         "children": [
-          {
-            "filename": "dva_roky_prazdnin_01.md",
-            "xhtml": "dva_roky_prazdnin_01.html",
-            "id": 0,
-            "role": "break",
-            "numberedChildren": false,
-            "inToc": false,
-            "children": []
-          },
           {
             "filename": "dva_roky_prazdnin_02.md",
             "xhtml": "dva_roky_prazdnin_02.html",
@@ -57,15 +66,6 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": false,
-            "children": []
-          },
-          {
-            "filename": "dva_roky_prazdnin_04.md",
-            "xhtml": "dva_roky_prazdnin_04.html",
-            "id": 3,
-            "role": "colophon",
-            "numberedChildren": false,
-            "inToc": true,
             "children": []
           },
           {
@@ -901,17 +901,17 @@
             "inToc": true,
             "children": [],
             "title": "Poznámky pod čarou"
-          },
-          {
-            "filename": "dva_roky_prazdnin_94.md",
-            "xhtml": "dva_roky_prazdnin_94.html",
-            "id": 93,
-            "role": "colophon",
-            "numberedChildren": false,
-            "inToc": true,
-            "children": []
           }
         ]
+      },
+      {
+        "filename": "dva_roky_prazdnin_94.md",
+        "xhtml": "dva_roky_prazdnin_94.html",
+        "id": 93,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
       }
     ]
   },
@@ -921,7 +921,7 @@
       "identifier": "c867c710-d9b3-4ac3-bca1-85404145fa5e",
       "author": "Jules Verne",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-26T22:22:59.405Z"
+      "modified": "2021-10-29T12:43:09.284Z"
     },
     "chapters": [
       {
@@ -1683,6 +1683,6 @@
       "user": "books-are-next",
       "repo": "verne-dva-roky-prazdnin"
     },
-    "generatedAt": 1635286980598
+    "generatedAt": 1635511390381
   }
 }
