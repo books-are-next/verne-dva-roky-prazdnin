@@ -2,7 +2,7 @@
 title: XXVI. KAPITOLA
 ---
 
-Caty a Evans – Evansovo vyprávění: Po vyvržení šalupy – Walston v přístavu – Bear Rock – Drak – Objevení French Cavern – Evansův útěk – Přes řeku – Návrhy – Gordonův záměr – Země na východě – Ostrov Chairman Hanovre
+**Caty a Evans – Evansovo vyprávění: Po vyvržení šalupy – Walston v přístavu – Bear Rock – Drak – Objevení French Cavern – Evansův útěk – Přes řeku – Návrhy – Gordonův záměr – Země na východě – Ostrov Chairman Hanovre**
 
 Při tak neočekávaném objevení se Mr. Evanse zůstali Gordon, Briant a Doniphan jako přimrazení. Pak jako by hnáni jakýmsi instinktem spěchali ke kormidelníkovi jako ke svému ochránci.
 

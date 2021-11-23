@@ -2,7 +2,7 @@
 title: XXVII. KAPITOLA
 ---
 
-Magellanův průliv – Země a ostrovy, které ji vroubí – Přístavy tam založené – Záměry do budoucna – Násilím, nebo lstí? – Rock a Forbes – Lžinámořníci – Pohostinné přijetí – Mezi jedenáctou hodinou a půlnocí – Evansův výstřel – Caty zasahuje
+**Magellanův průliv – Země a ostrovy, které ji vroubí – Přístavy tam založené – Záměry do budoucna – Násilím, nebo lstí? – Rock a Forbes – Lžinámořníci – Pohostinné přijetí – Mezi jedenáctou hodinou a půlnocí – Evansův výstřel – Caty zasahuje**
 
 Asi tři sta osmdesát mil dlouhý průliv, vinoucí se od západu na východ Panenského mysu v Atlantském oceánu až k mysu Los Pilares v Tichém oceánu – vrouben skalnatým, strmým pobřežím – ovládán horami dosahujícími v některých místech i tři tisíce stop nad hladinou moře – plný zálivů, jejichž pozadí tvořily útulné přístavy – bohatý na vodstva, kde bez velkých obtíží mohly posádky lodí obnovit zásoby pitné vody – lemován hustými lesy s početnou zvěří, ozývající se hřměním mohutných vodopádů, jež po tisících se prudce vrhaly do jeho nesčetných zálivů – poskytující lodím, připlouvajícím od západu nebo východu mnohem kratší cestou, než byla Lemairnovým průlivem mezi Zemí států, tedy Isla de los Estados a Ohňovou zemí – Isla Grande de Tierra del Fuego, a také méně navštěvovanou bouřemi, než cesta kolem mysu Hoorn – taková byla Magellanova[\[25\]](../Text/dva_roky_prazdnin_93.html#_ftn25) cesta, kterou objevil slavný portugalský mořeplavec r. 1520.
 

@@ -2,7 +2,7 @@
 title: XVI. KAPITOLA
 ---
 
-Briantova starost o Jacquese – Postavení ohrady a stáje – Javorový cukr – Zničení lišek – Nová výprava k zálivu Seagulla – Zapřažený vůz – Pobití tuleňů – Vánoce – Hurrrá Briantovi
+**Briantova starost o Jacquese – Postavení ohrady a stáje – Javorový cukr – Zničení lišek – Nová výprava k zálivu Seagulla – Zapřažený vůz – Pobití tuleňů – Vánoce – Hurrrá Briantovi**
 
 Po celý čas, co byl Gordon vzdálen, šlo ve French Cavern všechno jako na drátkách. Velitel malé osady musel pochválit Brianta, k němuž malí pojali nejvroucnější náklonnost. Kdyby nebyl Doniphan povahou tak hrdý a žárlivý, musel by sám – podle skutečné ceny – uznat výborné vlastnosti svého druha. To však nikdy neudělal a díky převaze, kterou měl proti Wilcoxovi, Webbovi a Crossovi, byli tito chlapci s ním vždy zajedno, kdykoliv se jednalo odporovat mladému Francouzovi, který svým vystupováním i povahou se tak značně lišil od svých druhů anglosaského původu.
 

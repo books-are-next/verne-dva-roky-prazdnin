@@ -2,7 +2,7 @@
 title: XX. KAPITOLA
 ---
 
-Odpočinek na South Cape u oceánu – Doniphan, Cross, Webb a Wilcox – Roztržka – Kraj Downs Lands – East River – Dolů po levém břehu – Příchod k ústí
+**Odpočinek na South Cape u oceánu – Doniphan, Cross, Webb a Wilcox – Roztržka – Kraj Downs Lands – East River – Dolů po levém břehu – Příchod k ústí**
 
 Šest týdnů po těchto příhodách k páté hodině večer se zastavili čtyři mladí osadníci na jižním cípu Family Lake.
 

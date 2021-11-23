@@ -2,7 +2,7 @@
 title: XI. KAPITOLA
 ---
 
-První zařízení uvnitř French Cavern – Vyprázdnění voru – Návštěva u hrobu trosečníka – Gordon a Doniphan – Postavení kamen – Srstnatá a pernatá zvěř – Nandu – Serviceho úmysly – Zima se blíží
+**První zařízení uvnitř French Cavern – Vyprázdnění voru – Návštěva u hrobu trosečníka – Gordon a Doniphan – Postavení kamen – Srstnatá a pernatá zvěř – Nandu – Serviceho úmysly – Zima se blíží**
 
 Skládání z voru se dělo za radostných výkřiků malých, pro které každá změna obyčejného života byla novou hrou. Dole poskakoval po břehu jako kůzlátko, Iverson a Jenkins se proháněli podél jezera, zatímco Costar vzal Moka stranou a řekl mu:
 

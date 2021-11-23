@@ -2,7 +2,7 @@
 title: XXVIII. KAPITOLA
 ---
 
-Výslech Forbese – Situace – Na výzvědách – Poměr zápasících sil – Zbytek ležení – Briant zmizel – Doniphan jemu na pomoc – Těžké zranění – Výkřik od French Cavern – Zjevení se Forbese – Mokův výstřel z děla
+**Výslech Forbese – Situace – Na výzvědách – Poměr zápasících sil – Zbytek ležení – Briant zmizel – Doniphan jemu na pomoc – Těžké zranění – Výkřik od French Cavern – Zjevení se Forbese – Mokův výstřel z děla**
 
 Ačkoliv tato noc beze spánku byla tak namáhavá, nikoho druhý den nenapadlo, aby si alespoň na hodinku odpočinul. Bylo v té chvíli zcela nepochybné, že Walston, když se mu nezdařila lest, se uchýlí k násilí. Rock, jenž unikl výstřelu kormidelníka, ho nepochybně opět vyhledal a sdělil mu, že nyní, kdy byly jeho úklady prozrazeny, pouze vylomením dveří bylo možné vniknout do French Cavern.
 

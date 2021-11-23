@@ -2,7 +2,7 @@
 title: VIII. KAPITOLA
 ---
 
-Pátrání na západě jezera – Podél pobřeží – Pštrosi na obzoru – Řeka vytékající z jezera – Klidná noc – Rub pobřežní vysočiny – Hráz – Trosky člunu – Nápis – Jeskyně
+**Pátrání na západě jezera – Podél pobřeží – Pštrosi na obzoru – Řeka vytékající z jezera – Klidná noc – Rub pobřežní vysočiny – Hráz – Trosky člunu – Nápis – Jeskyně**
 
 Tedy důležitá otázka, na níž závisela záchrana chlapců, nebyla dosud přesně rozhodnuta. Že tento domnělý oceán byl pouze jezerem, o tom nebylo žádné pochyby. Ale copak nebylo možné, že toto jezero se rozkládalo na ostrově? Co kdyby pokračovali ve výpravě za ním, nedostali by se ke skutečnému oceánu – k oceánu, k jehož přeplutí postrádali veškeré prostředky?
 

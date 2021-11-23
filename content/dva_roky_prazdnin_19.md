@@ -2,7 +2,7 @@
 title: VI. KAPITOLA
 ---
 
-Porada – Zamýšlená a překažená vycházka – Nečas – Lov ryb – Obrovská mořská řasa – Costar a Dole koňmo na nepříliš rychlém běžci – Přípravy k odchodu – Na kolenou před Jižním křížem
+**Porada – Zamýšlená a překažená vycházka – Nečas – Lov ryb – Obrovská mořská řasa – Costar a Dole koňmo na nepříliš rychlém běžci – Přípravy k odchodu – Na kolenou před Jižním křížem**
 
 Téhož večera po večeři sdělil Briant starším chlapcům výsledek své výzkumné cesty. Pozorování shrnul následovně: Ve východním směru, za pásmem hvozdů, rozeznal zcela určitě pruh vody, který se táhl od severu na jih. Že to byl obzor oceánu, o tom ani na chvíli nepochyboval. Seagull byl tedy naneštěstí vyvržen na ostrov, nikoliv na pevninu.
 

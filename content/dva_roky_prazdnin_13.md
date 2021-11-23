@@ -2,7 +2,7 @@
 title: IV. KAPITOLA
 ---
 
-První ohledání pobřeží – Briant a Gordon v lese – Marná snaha vyhledat jeskyni – Inventář zásob – Potraviny, zbraně, oděv, lůžkové potřeby, nářadí, náčiní a nástroje – První snídaně – První noc
+**První ohledání pobřeží – Briant a Gordon v lese – Marná snaha vyhledat jeskyni – Inventář zásob – Potraviny, zbraně, oděv, lůžkové potřeby, nářadí, náčiní a nástroje – První snídaně – První noc**
 
 Výspa byla neobydlena, jak zjistil Briant, když pozoroval kraj z ráhnoví předního stěžně. Již hodinu ležel škuner na písčitém pobřeží a dosud se neobjevil ani jediný z domorodců. Ani pod stromovím, které se zdvihalo na skalnatém pobřeží, ani na březích proudu vzedmutého vlnami oceánu nebyl vidět ani dům, ani chýše, ani stan. Na povrchu písčitého pobřeží, které lemoval nános mořských řas, se nejevila ani stopa lidské nohy. Při ústí malé řeky nebyla žádná rybářská bárka. Konečně mezi oběma předhořími, jižním i severním, nad celým obvodem tohoto zálivu nekroužil vzduchem žádný kouř.
 

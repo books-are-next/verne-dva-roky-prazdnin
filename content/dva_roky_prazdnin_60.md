@@ -2,7 +2,7 @@
 title: XIX. KAPITOLA
 ---
 
-Stožár na znamení – Prudké mrazy – Plameňák – Pastva – Jacquesova obratnost – Neposlušnost Doniphana a Crosse – Mlha – Jacques v mlhách – Rány z děl od French Cavern – Černé body – Doniphanovo chování
+**Stožár na znamení – Prudké mrazy – Plameňák – Pastva – Jacquesova obratnost – Neposlušnost Doniphana a Crosse – Mlha – Jacques v mlhách – Rány z děl od French Cavern – Černé body – Doniphanovo chování**
 
 Chlapci zvolili Brianta pro jeho úslužnou povahu, odvahu, kterou prokázal za všech příležitostí, kde se jednalo o blaho osady, i pro jeho neúnavnou obětavost, věnovanou všeobecnému zájmu. Od toho dne, kdy doslova převzal velení škuneru za jeho plavby z Nového Zélandu k Chairman Island, nikdy neustoupil před žádným nebezpečím ani námahou. Ačkoliv byl jiné národnosti, všichni ho milovali, velcí i malí – obzvláště ti malí, jimiž se neustále tak horlivě zaměstnával, a právě ti svorně hlasovali pro něho. Pouze Doniphan, Cross, Wilcox a Webb nechtěli uznat Briantovy vlastnosti. Dobře však věděli, že soudí nespravedlivě o zásluhách svého druha.
 

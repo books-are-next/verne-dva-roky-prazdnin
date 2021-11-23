@@ -2,7 +2,7 @@
 title: XVII. KAPITOLA
 ---
 
-Přípravy na příští zimu – Briantův návrh – Briant, Jacques a Moko odjíždějí – Cesta po Family Lake – East River – Malý přístav při ústí řeky – Oceán na východě – Jacques a Briant – Návrat do French Cavern
+**Přípravy na příští zimu – Briantův návrh – Briant, Jacques a Moko odjíždějí – Cesta po Family Lake – East River – Malý přístav při ústí řeky – Oceán na východě – Jacques a Briant – Návrat do French Cavern**
 
 Osm dní poté nastal nový rok 1861, a v této části jižní polokoule začal právě v plném létě. Bylo tomu zrovna deset měsíců, co mladí trosečníci ze Seagullu byli vrženi na ostrov, vzdálený tisíc osm set mil od Nového Zélandu.
 

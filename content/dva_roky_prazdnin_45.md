@@ -2,7 +2,7 @@
 title: XIV. KAPITOLA
 ---
 
-Poslední mrazy – Vůz – Návrat jara – Service a jeho nandu – Přípravy k výpravě na jih – Doupata – Stop River – Fauna a flóra – Na konci Family Lake – Poušť Sandy
+**Poslední mrazy – Vůz – Návrat jara – Service a jeho nandu – Přípravy k výpravě na jih – Doupata – Stop River – Fauna a flóra – Na konci Family Lake – Poušť Sandy**
 
 Když se ohlásilo krásné roční období, mohli mladí osadníci přistoupit k provedení některých plánů, které si vymysleli za dlouhých zimních večerů.
 
