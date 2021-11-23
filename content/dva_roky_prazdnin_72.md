@@ -2,7 +2,7 @@
 title: XXIII. KAPITOLA
 ---
 
-Stav, jaký právě byl – Případná opatření – Změna v životě – Mléčný strom – Na čem záleželo, aby zjistili – Návrh Caty – Briant zaujatý myšlenkou – Jeho záměr – Porada – Až zítra
+**Stav, jaký právě byl – Případná opatření – Změna v životě – Mléčný strom – Na čem záleželo, aby zjistili – Návrh Caty – Briant zaujatý myšlenkou – Jeho záměr – Porada – Až zítra**
 
 Osada byla tedy opět úplná, dokonce se rozrostla o nového člena – dobrou Caty, která za hrozného dramatu byla oceánem vyvržena na písčité pobřeží Chairman Island. Nyní vládla také ve French Cavern shoda, kterou již nemělo nic porušit. Jestli Doniphan ještě poněkud litoval, že nebyl velitelem mladých osadníků, tedy se k nim alespoň vrátil. Ano, tato dvou- nebo třídenní roztržka přinesla své ovoce. Nejednou již, i když to nesdělil svým přátelům a nechtěl uznat své křivdy, zjistil, že jeho samolibost byla silnější než skutečný zájem, i že jeho tvrdohlavost jej svedla k mnohým nerozvážnostem. Wilcox, Cross a Webb byli zachváceni stejnými pocity. A když Briant vůči němu podal takové důkazy obětavosti, v Doniphanovi zvítězily šlechetné city, které nikdy neměly pohasnout.
 

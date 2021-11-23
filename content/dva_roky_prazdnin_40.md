@@ -2,7 +2,7 @@
 title: XIII. KAPITOLA
 ---
 
-Studijní řád – Svěcení neděle – Sněhové koule – Doniphan a Briant – Tuhé mrazy – Palivo – Vycházka do Traps Woods – Vycházka k zálivu Seagulla – Tuleni a kajky – Veřejný trest
+**Studijní řád – Svěcení neděle – Sněhové koule – Doniphan a Briant – Tuhé mrazy – Palivo – Vycházka do Traps Woods – Vycházka k zálivu Seagulla – Tuleni a kajky – Veřejný trest**
 
 Po uplynutí měsíce května nastalo zimní období v krajinách Chairman Island. Jak dlouho mělo potrvat? Nejméně pět měsíců, ležel-li ostrov ve vyšší zeměpisné šířce než Nový Zéland. Gordon také učinil všechny možné přípravy, aby mohli vzdorovat drsnému počasí dlouhé zimy.
 

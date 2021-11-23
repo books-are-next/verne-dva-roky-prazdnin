@@ -2,7 +2,7 @@
 title: IX. KAPITOLA
 ---
 
-Návštěva jeskyně – Nábytek a nářadí – Bolas a laso – Hodiny – Téměř nečitelný sešit – Mapa zachráněného ze ztroskotané lodi – Kde se nalézají – Návrat do ležení – Pravý břeh řeky – Bažina – Gordonova znamení
+**Návštěva jeskyně – Nábytek a nářadí – Bolas a laso – Hodiny – Téměř nečitelný sešit – Mapa zachráněného ze ztroskotané lodi – Kde se nalézají – Návrat do ležení – Pravý břeh řeky – Bažina – Gordonova znamení**
 
 Briant, Doniphan, Wilcox a Service zachovávali hluboké mlčení. Kdo byl ten muž, jenž přišel zemřít do těchto míst? Byl to snad trosečník ze ztroskotané lodi, jemuž se nedostalo pomoci až do jeho poslední hodiny? Jaké byl národnosti? Dostal se do této země mladý? Zemřel již starý? Jak si opatřoval nejnutnější potřeby? Byl sem zahnán při ztroskotání lodi, přežili i ostatní pohromu? Nebo tu zbyl sám po neblahé smrti svých společníků? Pocházely různé předměty nalezené v jeskyni z lodi, či je zhotovil vlastníma rukama?
 

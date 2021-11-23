@@ -2,7 +2,7 @@
 title: XXII. KAPITOLA
 ---
 
-Briantova myšlenka – Radost malých – Postavení létacího draka – Přerušený pokus – Caty – Trosečníci Severnu – Doniphanovi a jeho přátelům hrozí nebezpečí – Briantova oddanost – Všichni opět spolu
+**Briantova myšlenka – Radost malých – Postavení létacího draka – Přerušený pokus – Caty – Trosečníci Severnu – Doniphanovi a jeho přátelům hrozí nebezpečí – Briantova oddanost – Všichni opět spolu**
 
 Laskavý čtenář jistě nezapomněl, za jakých podmínek Doniphan, Webb, Cross a Wilcox opustili French Cavern. Po jejich odchodu se usídlil v malé osadě smutek. Toto odloučení působilo všem hluboký zármutek, neboť mohlo mít pro budoucnost neblahé následky. Ovšem Briant si nemohl nic vyčítat, a přesto byl tím mnohem víc dojat než ostatní, neboť kvůli němu se roztržka stala.
 

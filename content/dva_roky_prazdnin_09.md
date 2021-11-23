@@ -2,7 +2,7 @@
 title: II. KAPITOLA
 ---
 
-Uprostřed peřejí – Briant a Doniphan – Pozorování pobřeží – Přípravy k zachránění – Spor o člun – Z výše stožáru – Statečný pokus Brianta – Následek přílivu
+**Uprostřed peřejí – Briant a Doniphan – Pozorování pobřeží – Přípravy k zachránění – Spor o člun – Z výše stožáru – Statečný pokus Brianta – Následek přílivu**
 
 V té chvíli ovzduší zbavené záclon mlh poskytovalo zraku rozhled po ohromné ploše kolem škuneru. Mraky se hnaly stále s větší rychlostí. Bouři neubylo dosud ani trochu na zuřivosti. Bylo však možné, že to byly poslední nárazy, jimiž dorážela na toto neznámé pobřeží Tichého oceánu.
 

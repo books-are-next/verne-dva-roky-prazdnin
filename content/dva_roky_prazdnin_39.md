@@ -2,7 +2,7 @@
 title: XII. KAPITOLA
 ---
 
-Zvětšení French Cavern – Podezřelý řev – Phann zmizí – Phann se objeví – Zařízení předsíně – Špatné počasí – Pojmenování – Chairman Island – Velitel osady
+**Zvětšení French Cavern – Podezřelý řev – Phann zmizí – Phann se objeví – Zařízení předsíně – Špatné počasí – Pojmenování – Chairman Island – Velitel osady**
 
 Při posledních výpravách mladí lovci několikrát pátrali ve skalnatém pobřeží doufajíce, že snad objeví nějakou novou jeskyni. Kdyby se jim to podařilo, využili by jí jako všeobecný sklad a úkryt pro ostatní materiál, který byli nuceni zanechat venku pod širým nebem. Avšak hledání bylo marné a museli se vrátit k dřívějšímu úmyslu, rozšířit totiž stávající bydliště vykopáním jednoho nebo více prostorů, které by se sbíhaly s jeskyní Françoise Baudouina.
 

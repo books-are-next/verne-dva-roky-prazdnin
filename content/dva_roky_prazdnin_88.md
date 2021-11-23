@@ -2,7 +2,7 @@
 title: XXIX. KAPITOLA
 ---
 
-Volní! – Hrdinové bitvy – Smrt nešťastníka – Výprava do lesa – Doniphanovo uzdravení – V přístavu Bear Rock – Oprava lodi – Odjezd dne 5. února – Dolů po řece Zealand – Pozdrav zálivu – Poslední bod Chairman Island
+**Volní! – Hrdinové bitvy – Smrt nešťastníka – Výprava do lesa – Doniphanovo uzdravení – V přístavu Bear Rock – Oprava lodi – Odjezd dne 5. února – Dolů po řece Zealand – Pozdrav zálivu – Poslední bod Chairman Island**
 
 Nastal nový, úplně jiný život pro mladé osadníky Chairman Island. Až dosud zápasili za hrozivých poměrů o zajištění své existence. Od té chvíle mohli statečně pracovat jenom na svém osvobození, aby poslední námahou dosáhli vyhlídky, že spatří své drahé a vlast.
 

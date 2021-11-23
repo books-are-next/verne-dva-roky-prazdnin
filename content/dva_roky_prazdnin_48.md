@@ -2,7 +2,7 @@
 title: XV. KAPITOLA
 ---
 
-Cestou k domovu – Výprava na západ – Trulca a algarroba – Čajovník – Bystřina Dike Creek – Lama vikuňa – Neklidná noc – Guanako – Baxterova zručnost v házení lasem – Návrat do French Cavern
+**Cestou k domovu – Výprava na západ – Trulca a algarroba – Čajovník – Bystřina Dike Creek – Lama vikuňa – Neklidná noc – Guanako – Baxterova zručnost v házení lasem – Návrat do French Cavern**
 
 Asi dvě stě kroků od zátoky se zdvihal písečný násep, vysoký asi padesát stop – skvělá vyhlídka, ze které Gordon a jeho kamarádi mohli dost daleko přehlédnout krajinu.
 

@@ -2,7 +2,7 @@
 title: I. KAPITOLA
 ---
 
-Bouře – Zbloudilý škuner – Čtyři chlapci na palubě Seagulla – Přední plachta roztrhána – Návštěva útrob jachty – Napůl zardoušený plavčík – Vlna na zádi – Vidina země ranními mlhami – Bradlo
+**Bouře – Zbloudilý škuner – Čtyři chlapci na palubě Seagulla – Přední plachta roztrhána – Návštěva útrob jachty – Napůl zardoušený plavčík – Vlna na zádi – Vidina země ranními mlhami – Bradlo**
 
 V noci 9. března 1860 splývala mračna natolik s oceánem, že zrak pronikal sotva na několik sáhů.
 

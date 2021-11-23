@@ -2,7 +2,7 @@
 title: XXI. KAPITOLA
 ---
 
-Prohledávání Deception Bay – Bear Rock Harbour – Úmysl vrátit se do French Cavern – Pátrání na severu ostrova – North Creek – Beechs Forest – Děsná bouře – Noční vidění – Za svítání
+**Prohledávání Deception Bay – Bear Rock Harbour – Úmysl vrátit se do French Cavern – Pátrání na severu ostrova – North Creek – Beechs Forest – Děsná bouře – Noční vidění – Za svítání**
 
 Prvním úkolem Doniphana, Wilcoxe, Webba a Crosse bylo dostat se podél proudu řeky až k jejímu ústí. Tam odtud se pátravě zahleděli na oceán, který zde spatřili poprvé. Byl však také tak pustý jako oceán rozkládající se za protějším pobřežím.
 

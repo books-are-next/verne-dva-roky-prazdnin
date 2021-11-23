@@ -2,7 +2,7 @@
 title: XXX. KAPITOLA
 ---
 
-V průlivech – Zpoždění způsobené opačnými větry – Úžina – Parník Grafton – Návrat do Aucklandu – Uvítání v hlavním městě Nového Zélandu – Evans a Caty – Závěr
+**V průlivech – Zpoždění způsobené opačnými větry – Úžina – Parník Grafton – Návrat do Aucklandu – Uvítání v hlavním městě Nového Zélandu – Evans a Caty – Závěr**
 
 Není zapotřebí popisovat plavbu průlivy Magellanova souostroví. Nepřihodilo se nic závažného. Počasí bylo neustále krásné. Ostatně v těchto úžinách, širokých šest nebo sedm mil, neměl oceán ani dost času, aby se rozzuřil vlnobitím.
 

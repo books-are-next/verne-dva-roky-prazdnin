@@ -2,7 +2,7 @@
 title: V. KAPITOLA
 ---
 
-Ostrov, nebo pevnina? – Vycházka – Briant jde sám – Obojživelníci – Hejna tučňáků – Snídaně – Z vrcholu mysu – Tři ostrůvky v širém oceánu – Modrý pruh na obzoru – Návrat k lodi Seagull
+**Ostrov, nebo pevnina? – Vycházka – Briant jde sám – Obojživelníci – Hejna tučňáků – Snídaně – Z vrcholu mysu – Tři ostrůvky v širém oceánu – Modrý pruh na obzoru – Návrat k lodi Seagull**
 
 Ostrov, nebo pevnina? To byla neustále hlavní otázka, kterou se Briant, Gordon a Doniphan zabývali, jež povaha i rozum učinily skutečnými vládci tohoto malého světa. Myslíce na budoucnost, zatímco nejmladší žili pouze přítomností, často rozmlouvali na toto téma. Ale ať už tato země byla ostrovem, či pevninou, bylo jisté, že nepatřila do tropického podnebí. To ukazovalo rostlinstvo jako duby, buky, břízy, vrby, jedle i smrky všeho druhu, rovněž nesčetné druhy myrtovitých a klečovitých rostlin, které se neobjevovaly ani jako stromy, ani jako křoviny ve středním pásmu Tichomoří. Spíš se zdálo, že toto území leželo v poněkud vyšší zeměpisné šířce než Nový Zéland, tedy blíž jižnímu pólu. Bylo se tedy co obávat, že zimy tam byly velmi kruté. Již v té době silná pokrývka zvadlého listí pokrývala půdu lesa, který se rozkládal na úpatí strmého pobřeží. Pouze jedle a smrky si zachovaly své jehličí, které se obnovuje rok co rok, neopadávaje nikdy najednou.
 

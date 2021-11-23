@@ -2,7 +2,7 @@
 title: VII. KAPITOLA
 ---
 
-Březový les – Z vrcholu skalnatého pobřeží – Hvozdem – Přechod přes říčku – Potok vůdcem – Noční ležení – Ažupa – Modravý pruh – Phann hasí žízeň
+**Březový les – Z vrcholu skalnatého pobřeží – Hvozdem – Přechod přes říčku – Potok vůdcem – Noční ležení – Ažupa – Modravý pruh – Phann hasí žízeň**
 
 Briant, Doniphan, Wilcox a Service opustili ležení Seagulla v sedm hodin ráno. Slunce, vycházející na bezoblačné obloze, slibovalo jeden z těch krásných dnů, jakými měsíc říjen obdařuje obyvatele mírného pásma na severní polokouli. Nemuseli se obávat ani vedra, ani chladu. Kdyby je už některá překážka na pochodu zdržela, byla by tím vinna jedině povaha půdy.
 

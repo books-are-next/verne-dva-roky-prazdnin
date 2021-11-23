@@ -2,7 +2,7 @@
 title: X. KAPITOLA
 ---
 
-Zpráva o výpravě – Rozhodnutí opustit Seagulla – Vyprázdnění a rozebrání jachty – Vichřice pomocnicí – Pod stanem – Postavení voru – Složení nákladu a plavba na voru – Dvě noci na řece – Příjezd do French Cavern
+**Zpráva o výpravě – Rozhodnutí opustit Seagulla – Vyprázdnění a rozebrání jachty – Vichřice pomocnicí – Pod stanem – Postavení voru – Složení nákladu a plavba na voru – Dvě noci na řece – Příjezd do French Cavern**
 
 Lze si docela dobře představit, jak byli uvítáni Briant i ostatní tři chlapci. Gordon, Cross, Baxter, Garnett a Webb jim běželi vstříc s otevřenou náručí, zatímco malí jim padali kolem krku. Také sám Phann se účastnil tohoto srdečného uvítání, provázeje veselým štěkotem hurrrá dětí. Ano! Vždyť jejich nepřítomnost trvala tak dlouho!
 

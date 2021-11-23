@@ -2,7 +2,7 @@
 title: XVIII. KAPITOLA
 ---
 
-Slaný močál – Chůdy – Návštěva v South Moors – Předvídání zimy – Různé kry – Mezi Doniphanem a Briantem – Gordonovo zakročení – Obavy před budoucností – Volba 10. června
+**Slaný močál – Chůdy – Návštěva v South Moors – Předvídání zimy – Různé kry – Mezi Doniphanem a Briantem – Gordonovo zakročení – Obavy před budoucností – Volba 10. června**
 
 Briant po oné scéně, jež se stala mezi ním a jeho bratrem a které byl svědkem také Moko, chtěl zachovat mlčení, a to i ohledně Gordona. Zprávu o své výpravě podal svým druhům shromážděným v hale. Popsal východní pobřeží Chairman Island po celé části Deception Bay, tok East River, jenž plynul hvozdy sousedícími s jezerem, které tolik oplývaly stále zelenými stromy. Vyložil, že usídlení na tom pobřeží by bylo snazší než na západním pobřeží, i když připojil, že nedoporučuje opustit French Cavern. Pokud se pak jednalo o část Tichého oceánu, že ani tam nebyla vidět žádná země. Briant se však zmínil o bílém místě, které spatřil na širém oceánu a jehož vynoření se nad obzor si nemohl nijak vysvětlit. Pravděpodobně to byl jen oblak a bylo by vhodné mít o tom jistotu, kdyby jednou navštívili Deception Bay. V té chvíli se zdálo být jisté, že Chairman Island v těchto končinách nesousedil s žádnou zemí a nepochybně mnoho set mil jej dělilo od nejbližší pevniny nebo od souostroví.
 

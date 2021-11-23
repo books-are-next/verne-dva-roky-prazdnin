@@ -2,7 +2,7 @@
 title: XXV. KAPITOLA
 ---
 
-Šalupa Severnu – Costar je nemocný – Návrat vlaštovek – Malomyslnost – Draví ptáci – Guanako zabit kulkou – Zbytek v dýmce – Přísnější ostražitost – Prudká bouře – Výstřel venku – Výkřik Caty
+**Šalupa Severnu – Costar je nemocný – Návrat vlaštovek – Malomyslnost – Draví ptáci – Guanako zabit kulkou – Zbytek v dýmce – Přísnější ostražitost – Prudká bouře – Výstřel venku – Výkřik Caty**
 
 Druhého dne, po noci, kdy byl Moko na stráži ve French Cavern, mladí osadníci, unavení vzrušením minulého dne, procitli až velice pozdě. Jakmile vstali, zašli Gordon, Doniphan, Briant a Baxter do zásobárny, kde se Caty zaměstnávala svými obvyklými pracemi.
 

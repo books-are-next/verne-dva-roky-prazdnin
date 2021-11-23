@@ -2,7 +2,7 @@
 title: XXIV. KAPITOLA
 ---
 
-První pokus – Zvětšení létacího přístroje – Druhý pokus – Odloženo na druhý den – Briantův návrh – Jacquesovo prohlášení – Přiznání – Briantova myšlenka – V noci ve vzduchu – Co se odtamtud jeví – Vítr zesiluje – Rozřešení
+**První pokus – Zvětšení létacího přístroje – Druhý pokus – Odloženo na druhý den – Briantův návrh – Jacquesovo prohlášení – Přiznání – Briantova myšlenka – V noci ve vzduchu – Co se odtamtud jeví – Vítr zesiluje – Rozřešení**
 
 Brzy ráno dne 25. listopadu se dali Briant a Baxter do díla. Dříve však než dali draku větší rozměry, zdálo se, že by bylo vhodné, aby zjistili, jakou zátěž by vyzvedl takový, jak právě byl. Tímto pokusem by se dalo také zjistit, protože jim chyběly vědecké znalosti, jaká plocha by byla zapotřebí, aby unesl – nehledě k jeho vlastní tíži – hmotnost nejméně sto dvaceti nebo sto třiceti liber.
 

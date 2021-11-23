@@ -2,7 +2,7 @@
 title: III. KAPITOLA
 ---
 
-Chairman School v Aucklandu – Velcí a malí – Prázdniny na oceánu – Škuner Seagull – V noci 15. února – Zanesení – Srážka – Bouře – Porada v Aucklandu – Co zbylo ze škuneru
+**Chairman School v Aucklandu – Velcí a malí – Prázdniny na oceánu – Škuner Seagull – V noci 15. února – Zanesení – Srážka – Bouře – Porada v Aucklandu – Co zbylo ze škuneru**
 
 V době naší události byla Chairman School nejváženějším ústavem v Aucklandu, hlavním městě Nového Zélandu, důležité anglické kolonii v Tichém oceánu. Bylo v něm na sto žáků pocházejících z nejlepších rodin země. Maorové, domorodí obyvatelé souostroví, nemohli do něho posílat své děti, avšak pro ty byly zřízeny jiné ústavy. Chairman School navštěvovali jen mladí Angličané, Francouzi, Američané a Němci, děti statkářů, soukromníků, obchodníků a úředníků země. Dostalo se jim tam velmi důkladného vychování, rovného tomu, jaké bylo možné získat v ústavech Spojeného království.
 
