@@ -1,14 +1,14 @@
 {
   "author": "Jules Verne",
-  "identifier": "verne-dva-roky-prazdnin-af98234",
+  "identifier": "verne-dva-roky-prazdnin-0eac3ec",
   "languagecode": "cs",
   "modified": "2021-10-22T08:55:50.968Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Dva roky prázdnin",
-  "revision": "af98234",
+  "revision": "0eac3ec",
   "generatedAt": {
-    "date": "Tue Nov 23 2021 15:53:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1637682809288
+    "date": "Wed Dec 01 2021 15:57:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638374252159
   },
   "documents": [
     {
@@ -25,7 +25,7 @@
           "index": 0,
           "level": 1,
           "name": "Tiráž",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -44,8 +44,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -63,8 +63,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -82,8 +82,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -91,9 +91,9 @@
     {
       "title": "Předmluva",
       "file": "dva_roky_prazdnin_05.html",
-      "words": 155,
+      "words": 154,
       "chars": 1067,
-      "ideas": 7,
+      "ideas": 6,
       "role": "other",
       "order": null,
       "next": "dva_roky_prazdnin_01.html",
@@ -102,7 +102,7 @@
           "index": 0,
           "level": 1,
           "name": "Předmluva",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -121,7 +121,7 @@
           "index": 0,
           "level": 1,
           "name": "I. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -139,8 +139,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -158,8 +158,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -178,7 +178,7 @@
           "index": 0,
           "level": 1,
           "name": "II. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -197,7 +197,7 @@
           "index": 0,
           "level": 1,
           "name": "III. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -215,8 +215,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -234,8 +234,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -254,7 +254,7 @@
           "index": 0,
           "level": 1,
           "name": "IV. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -272,8 +272,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -291,8 +291,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -310,8 +310,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -329,8 +329,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -349,7 +349,7 @@
           "index": 0,
           "level": 1,
           "name": "V. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -368,7 +368,7 @@
           "index": 0,
           "level": 1,
           "name": "VI. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -386,8 +386,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -405,8 +405,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -425,7 +425,7 @@
           "index": 0,
           "level": 1,
           "name": "VII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -443,8 +443,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -462,8 +462,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -481,8 +481,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -500,8 +500,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -520,7 +520,7 @@
           "index": 0,
           "level": 1,
           "name": "VIII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -538,8 +538,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -557,8 +557,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -577,7 +577,7 @@
           "index": 0,
           "level": 1,
           "name": "IX. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -596,7 +596,7 @@
           "index": 0,
           "level": 1,
           "name": "X. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -614,8 +614,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -633,8 +633,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -652,8 +652,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -671,8 +671,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -691,7 +691,7 @@
           "index": 0,
           "level": 1,
           "name": "XI. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -709,8 +709,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -728,8 +728,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -748,7 +748,7 @@
           "index": 0,
           "level": 1,
           "name": "XII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -767,7 +767,7 @@
           "index": 0,
           "level": 1,
           "name": "XIII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -785,8 +785,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -804,8 +804,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -823,8 +823,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -842,8 +842,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -862,7 +862,7 @@
           "index": 0,
           "level": 1,
           "name": "XIV. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -880,8 +880,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -899,8 +899,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -919,7 +919,7 @@
           "index": 0,
           "level": 1,
           "name": "XV. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -937,8 +937,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -956,8 +956,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -976,7 +976,7 @@
           "index": 0,
           "level": 1,
           "name": "XVI. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -994,8 +994,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1013,8 +1013,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1033,7 +1033,7 @@
           "index": 0,
           "level": 1,
           "name": "XVII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1051,8 +1051,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1070,8 +1070,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1090,7 +1090,7 @@
           "index": 0,
           "level": 1,
           "name": "XVIII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1108,8 +1108,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1127,8 +1127,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1147,7 +1147,7 @@
           "index": 0,
           "level": 1,
           "name": "XIX. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1165,8 +1165,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1184,8 +1184,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1204,7 +1204,7 @@
           "index": 0,
           "level": 1,
           "name": "XX. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1223,7 +1223,7 @@
           "index": 0,
           "level": 1,
           "name": "XXI. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1241,8 +1241,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1260,8 +1260,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1280,7 +1280,7 @@
           "index": 0,
           "level": 1,
           "name": "XXII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1298,8 +1298,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1317,8 +1317,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1336,8 +1336,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1355,8 +1355,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1375,7 +1375,7 @@
           "index": 0,
           "level": 1,
           "name": "XXIII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1393,8 +1393,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1412,8 +1412,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1432,7 +1432,7 @@
           "index": 0,
           "level": 1,
           "name": "XXIV. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1450,8 +1450,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1469,8 +1469,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1489,7 +1489,7 @@
           "index": 0,
           "level": 1,
           "name": "XXV. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1507,8 +1507,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1526,8 +1526,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1546,7 +1546,7 @@
           "index": 0,
           "level": 1,
           "name": "XXVI. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1564,8 +1564,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1583,8 +1583,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1603,7 +1603,7 @@
           "index": 0,
           "level": 1,
           "name": "XXVII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1621,8 +1621,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1640,8 +1640,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1660,7 +1660,7 @@
           "index": 0,
           "level": 1,
           "name": "XXVIII. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1679,7 +1679,7 @@
           "index": 0,
           "level": 1,
           "name": "XXIX. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1697,8 +1697,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1716,8 +1716,8 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -1736,7 +1736,7 @@
           "index": 0,
           "level": 1,
           "name": "XXX. KAPITOLA",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1755,7 +1755,7 @@
           "index": 0,
           "level": 1,
           "name": "Místopisný slovníček",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1774,7 +1774,7 @@
           "index": 0,
           "level": 1,
           "name": "Poznámky pod čarou",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -1782,13 +1782,21 @@
     {
       "title": "",
       "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
+      "words": 9,
+      "chars": 52,
+      "ideas": 3,
+      "role": "cover",
       "order": null,
       "next": "dva_roky_prazdnin_01.html",
-      "toc": []
+      "toc": [
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Dva roky prázdnin",
+          "id": null,
+          "children": []
+        }
+      ]
     },
     {
       "title": "",
@@ -1804,9 +1812,9 @@
   ],
   "totals": {
     "all": {
-      "words": 97327,
-      "chars": 602177,
-      "ideas": 3177
+      "words": 97335,
+      "chars": 602229,
+      "ideas": 3179
     },
     "chapters": {
       "words": 0,
