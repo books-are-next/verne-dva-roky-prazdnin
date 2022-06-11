@@ -9,7 +9,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-10-22T08:55:50.968Z'
   languageCode: cs
-chapters:
+readingOrder:
   - dva_roky_prazdnin_01.html
 tocBase:
   - id: section-1
