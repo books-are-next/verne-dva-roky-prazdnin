@@ -45,7 +45,7 @@
         "filename": "dva_roky_prazdnin_04.md",
         "xhtml": "dva_roky_prazdnin_04.html",
         "id": 3,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -912,7 +912,7 @@
         "filename": "dva_roky_prazdnin_94.md",
         "xhtml": "dva_roky_prazdnin_94.html",
         "id": 93,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
