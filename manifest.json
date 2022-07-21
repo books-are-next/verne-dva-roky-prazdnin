@@ -7,14 +7,14 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "verne-dva-roky-prazdnin-f3171d9",
-  "revision": "f3171d9",
+  "identifier": "verne-dva-roky-prazdnin-821368f",
+  "revision": "821368f",
   "readingOrder": [
     "dva_roky_prazdnin_01.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 11:25:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657193111000
+    "date": "Thu Jul 21 2022 14:31:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658413875618
   },
   "documents": [
     {
